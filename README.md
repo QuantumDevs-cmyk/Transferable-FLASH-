@@ -132,9 +132,9 @@ Looking forward to assisting you!
 
 ---
 
-# ⚠️ Disclaimer
+# purpose 
 
-This repository is intended for educational and informational purposes only.
+This repository demonstrate how this Transferable flash work 
 
 ---
 
@@ -163,7 +163,7 @@ This repository is intended for educational and informational purposes only.
 Transferable Flash USDT combines blockchain compatibility, multi-wallet integration, fast crypto transactions, and flexible network support into one organized crypto transfer solution.
 
 Perfect for:
-- Blockchain learners
+- Blockchain research 
 - Crypto enthusiasts
 - Wallet compatibility testing
 - Multi-network transaction research
